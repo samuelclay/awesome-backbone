@@ -66,7 +66,7 @@
 - [Top 8 Common Backbone.js Developer Mistakes](http://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes) by Mahmud Ridwan
 - [8 Great Backbone.js Interview Questions](http://www.toptal.com/backbone-js/interview-questions)
 - [Integrating React With Backbone](https://quickleft.com/blog/integrating-react-with-backbone/) by Ben Lewis
-
+- [Backbonification: migrating a large JavaScript project from DOM spaghetti to Backbone.js](http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/) by Samuel Clay
 ## Books
 
 - [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) by Addy Osmani
